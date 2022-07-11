@@ -2,11 +2,6 @@
 
 The program is designed for downloading files via a link.
 
-## Arguments:
-* -u --url - url file
-* -f --format - format file
-* -o --output - output file
-
 ## Running:
 
 ```
